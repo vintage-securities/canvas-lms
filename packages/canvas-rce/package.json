@@ -111,7 +111,7 @@
     "@instructure/uid": "10.19.0",
     "@sheerun/mutationobserver-shim": "^0.3.2",
     "@types/tinycolor2": "^1.4.6",
-    "@tinymce/tinymce-react": "~3.8.4",
+    "@tinymce/tinymce-react": "~3.14.0",
     "aphrodite": "^2",
     "axios": "^0.28.0",
     "bloody-offset": "0.0.0",
