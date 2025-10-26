@@ -14,4 +14,4 @@ eval_gemfile("../gemfile_prefix.rb")
 
 gem "rake"
 gem "rspec", "~> 3.0"
-gem "webmock", "~> 3.0"
+gem "webmock", "~> 3.25", ">= 3.25.2"
